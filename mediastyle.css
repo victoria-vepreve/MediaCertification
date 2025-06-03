@@ -1,0 +1,36 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: sticky;
+    top: 0;
+}
+
+li{
+    float: center;
+}
+
+li a{
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 15px 20px;
+    background-color: rgb(177, 32, 32);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li a:hover{
+    background-color: rgb(82, 30, 30);
+}
+
+body{
+  background-color: rgb(228, 224, 224);
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+  color: rgb(70, 27, 27);
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
